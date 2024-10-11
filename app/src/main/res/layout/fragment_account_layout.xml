@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/accountLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+<!--        <ImageView
+            android:id="@+id/imageButton"
+            android:layout_width="46dp"
+            android:layout_height="53dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:clickable="true"
+            android:src="@drawable/baseline_settings_24"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />-->
+
+        <Button
+            android:id="@+id/btnLogout"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="32dp"
+            android:text="Đăng xuất"
+            android:textColor="@color/white"
+            android:background="@drawable/custom_signup"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.952"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/btnEditAccount"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="32dp"
+            android:text="Lưu thay đổi"
+            android:textColor="@color/white"
+            android:background="@drawable/custom_signup"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.05"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <EditText
+            android:id="@+id/editNewPassword"
+            android:layout_width="350dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="44dp"
+            android:background="@drawable/custom_signup"
+            android:ems="10"
+            android:hint="Mật khẩu mới"
+            android:inputType="textPassword"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            app:layout_constraintBottom_toTopOf="@+id/editRetypeNewPassword"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/labelNewPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:layout_marginBottom="12dp"
+            android:text="Mật khẩu mới (Optional)"
+            android:textColor="#8285E8"
+            app:layout_constraintBottom_toTopOf="@+id/editNewPassword"
+            app:layout_constraintStart_toStartOf="@+id/editNewPassword"
+            app:layout_constraintTop_toBottomOf="@+id/editAccountPassword"
+            app:layout_constraintVertical_bias="0.904" />
+
+        <TextView
+            android:id="@+id/labelRetypeNewPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text="Nhập lại mật khẩu mới (Optional)"
+            android:textColor="#8285E8"
+            app:layout_constraintBottom_toTopOf="@+id/editRetypeNewPassword"
+            app:layout_constraintStart_toStartOf="@+id/editRetypeNewPassword"
+            app:layout_constraintTop_toBottomOf="@+id/editNewPassword"
+            app:layout_constraintVertical_bias="0.6" />
+
+        <EditText
+            android:id="@+id/editAccountPassword"
+            android:layout_width="350dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="52dp"
+            android:background="@drawable/custom_signup"
+            android:ems="10"
+            android:hint="Mật khẩu"
+            android:inputType="textPassword"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            app:layout_constraintBottom_toTopOf="@+id/editNewPassword"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/labelPassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="8dp"
+            android:text="Mật khẩu"
+            android:textColor="#8285E8"
+            app:layout_constraintBottom_toTopOf="@+id/editAccountPassword"
+            app:layout_constraintStart_toStartOf="@+id/editAccountPassword" />
+
+        <EditText
+            android:id="@+id/editAccountNickname"
+            android:layout_width="350dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="48dp"
+            android:background="@drawable/custom_signup"
+            android:ems="10"
+            android:inputType="text"
+            android:text="Nickname"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            app:layout_constraintBottom_toTopOf="@+id/editAccountPassword"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.997" />
+
+        <EditText
+            android:id="@+id/editRetypeNewPassword"
+            android:layout_width="350dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="144dp"
+            android:background="@drawable/custom_signup"
+            android:ems="10"
+            android:hint="Nhập lại mật khẩu mới"
+            android:inputType="textPassword"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/labelNickname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="8dp"
+            android:text="Tên hiển thị"
+            android:textColor="#8285E8"
+            app:layout_constraintBottom_toTopOf="@+id/editAccountNickname"
+            app:layout_constraintStart_toStartOf="@+id/editAccountNickname" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="130dp"
+            android:layout_height="123dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="60dp"
+            android:adjustViewBounds="false"
+            android:src="@drawable/default_avatar"
+            app:layout_constraintBottom_toTopOf="@+id/editAccountNickname"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.558" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

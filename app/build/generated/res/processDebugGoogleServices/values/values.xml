@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">589210647464</string>
+    <string name="google_api_key" translatable="false">AIzaSyDoG0W2p17dRmZSyK-BcW2Eh3OHhRwqheM</string>
+    <string name="google_app_id" translatable="false">1:589210647464:android:8cc37857720fdcdd587b9d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDoG0W2p17dRmZSyK-BcW2Eh3OHhRwqheM</string>
+    <string name="google_storage_bucket" translatable="false">albumproject-4c166.appspot.com</string>
+    <string name="project_id" translatable="false">albumproject-4c166</string>
+</resources>

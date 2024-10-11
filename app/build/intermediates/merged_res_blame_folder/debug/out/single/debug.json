@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_icon_fill_favorite_in_all_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\icon_fill_favorite_in_all_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable-anydpi_ic_action_name.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable-anydpi\\ic_action_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_add_image.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\add_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_activity_main_ver2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\activity_main_ver2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_custom_button_add_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\custom_button_add_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_all_info_album1.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\all_info_album1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_add_camera.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\add_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_favorite_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_favorite_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\color_textview_form2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\color\\textview_form2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_icon_information_in_alllayout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\icon_information_in_alllayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_all_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_all_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_rotate_left_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\rotate_left_24.xml"
+    },
+    {
+        "merged": "com.example.project_album.app-merged_res-36:/layout_fragment_view_pager_trash_can.xml.flat",
+        "source": "com.example.project_album.app-main-38:/layout/fragment_view_pager_trash_can.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_draw.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\draw.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_header_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\header_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\color_textview_form.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\color\\textview_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_icon_edit_in_alllayout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\icon_edit_in_alllayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_album_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\album_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_check_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_view_pager_trash_can.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_view_pager_trash_can.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_account_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_account_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_item_image.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_icon_favorite_in_alllayout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\icon_favorite_in_alllayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_custom_enter_password_hide.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\custom_enter_password_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\anim_from_bottom_anim.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\anim\\from_bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_default_avatar.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\default_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_custom_edittext_album.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\custom_edittext_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\anim_rotate_close_anim.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\anim\\rotate_close_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_icon_share_in_all_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\icon_share_in_all_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_layout_solo_picture_in_trashcan.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_layout_solo_picture_in_trashcan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_view_pager_all_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_view_pager_all_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_edit.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_account_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\account_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_custom_button_elip.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\custom_button_elip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_filter.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\anim_to_bottom_anim.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\anim\\to_bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_rotate_right_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\rotate_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_trash_can_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_trash_can_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_sign_up.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_all_info_alllayout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\all_info_alllayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_light_theme_background.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\light_theme_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_custom_add_password_for_hide.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\custom_add_password_for_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_icon_delete_in_alllayout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\icon_delete_in_alllayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_flip_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\flip_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_image_in_album.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_image_in_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_close_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_favorite_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\favorite_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_view_heading.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\view_heading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_custom_bottom.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\custom_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_icon_back.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\icon_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_add.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_remove.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_trash_can_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\trash_can_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_image_default.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\image_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_custom_forgot_pass_for_hide.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\custom_forgot_pass_for_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_custom_signup.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\custom_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_all_info_icon.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\all_info_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_custom_input.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_ic_add_album.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\ic_add_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\menu_menu_custom_version2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\menu\\menu_custom_version2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\anim_rotate_open_anim.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\anim\\rotate_open_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_my_album.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_my_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_custom_add_album.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\custom_add_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_custom_album_image.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\custom_album_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_more.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_link.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\link.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_album_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_album_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_all_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\all_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_item_album.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\item_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_dialog_zip.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\dialog_zip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_hide_in_album_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_hide_in_album_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_custtom_edit_album.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\custtom_edit_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\layout_fragment_url.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\layout\\fragment_url.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_search_icon.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_bottom_navigation_border.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\bottom_navigation_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-merged_res-36:\\drawable_custtom_button.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.0\\com.example.project_album.app-main-38:\\drawable\\custtom_button.xml"
+    }
+]

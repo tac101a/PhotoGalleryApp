@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Này là để tạo chữ và nền khi mà click vào action_account,... đổi thành màu đỏ đỏ tí như dưới-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/white" android:state_checked="false">
+    </item>
+    <item android:color="@color/blue" android:state_checked="true"/>
+</selector>

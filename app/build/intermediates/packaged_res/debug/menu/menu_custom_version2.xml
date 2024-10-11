@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_all_picture"
+        android:icon="@drawable/all_icon_foreground"
+        android:title="All" />
+
+    <item
+        android:id="@+id/action_album"
+        android:icon="@drawable/album_icon_foreground"
+        android:title="Album" />
+
+    <item android:id="@+id/action_favorite"
+        android:icon="@drawable/favorite_icon_foreground"
+        android:title="Favorite"/>
+
+    <item android:id="@+id/action_bin"
+        android:icon="@drawable/trash_can_icon_foreground"
+        android:title="Bin"/>
+
+    <item android:id="@+id/action_account"
+        android:icon="@drawable/account_icon_foreground"
+        android:title="Account"/>
+</menu>

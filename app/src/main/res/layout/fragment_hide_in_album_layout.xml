@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_1"
+    android:orientation="vertical"
+    android:id="@+id/main_layout_hide"
+    android:padding="10dp"
+    tools:context=".HideInAlbumLayoutFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/img_back_in_hide"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_back">
+        </ImageView>
+        <Button
+            android:id="@+id/btn_choose_in_hide"
+            android:layout_width="70dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="25dp"
+            android:background="@color/blue_press"
+            android:text="Chọn"
+            android:textColor="@color/white"
+            android:textSize="8dp" />
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/txt_hide_recently"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_choose_in_hide"
+        android:layout_alignParentLeft="true"
+        android:text="Ảnh đã ẩn gần đây"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
+    <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="10"
+        android:orientation="vertical">
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/grid_view_hide"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginVertical="10dp"
+            android:layout_weight="1"
+            app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+            app:spanCount="3" />
+
+        <TextView
+            android:id="@+id/txt_display_total_picture_hide"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="Tổng :94"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/last_linear_in_hide"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:visibility="gone">
+        <Button
+            android:id="@+id/btn_cancel_hide_chosen_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Bỏ ẩn tất cả"
+            android:visibility="gone" />
+    </LinearLayout>
+</LinearLayout>

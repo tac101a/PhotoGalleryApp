@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#21235A"
+    android:padding="20dp"
+    tools:context=".SignUpFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Welcome" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="45dp"
+            android:textStyle="bold"
+            android:layout_marginBottom="50dp"
+            android:text="Đăng ký" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#8285E8"
+            android:text="Nhập địa chỉ email" />
+
+        <EditText
+            android:id="@+id/editEmail"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:inputType="text"
+            android:textColor="@color/white"
+            android:background="@drawable/custom_signup"
+            android:layout_marginBottom="50dp"
+            android:textColorHint="@color/white"
+            android:textSize="20dp"
+            android:hint="Email" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="50dp"
+
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingEnd="8dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:textColor="#8285E8"
+
+                    android:text="Tên đăng nhập" />
+
+                <EditText
+                    android:id="@+id/editUserName"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:inputType="text"
+                    android:textColor="@color/white"
+                    android:textSize="20dp"
+                    android:background="@drawable/custom_signup"
+                    android:textColorHint="@color/white"
+
+                    android:hint="Tên đăng nhập" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:textColor="#8285E8"
+
+                    android:text="Số điện thoại" />
+
+                <EditText
+                    android:id="@+id/editPhone"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:inputType="text"
+                    android:textColor="@color/white"
+                    android:textSize="20dp"
+                    android:background="@drawable/custom_signup"
+                    android:textColorHint="@color/white"
+
+                    android:hint="Số điện thoại" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#8285E8"
+
+            android:text="Nhập mật khẩu" />
+
+        <EditText
+            android:id="@+id/editPassword"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textColor="@color/white"
+            android:background="@drawable/custom_signup"
+            android:layout_marginBottom="50dp"
+            android:hint="Mật khẩu"
+            android:textColorHint="@color/white"
+            android:inputType="textPassword" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#8285E8"
+
+            android:text="Nhập lại mật khẩu" />
+
+        <EditText
+            android:id="@+id/editPassword2"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:background="@drawable/custom_signup"
+            android:layout_marginBottom="50dp"
+            android:hint="Mật khẩu"
+            android:textColorHint="@color/white"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/btnSignUp"
+            android:layout_width="230dp"
+            android:layout_height="45dp"
+            android:background="@drawable/custom_signup"
+            android:layout_gravity="center"
+            android:text="Đăng ký" />
+    </LinearLayout>
+</ScrollView>

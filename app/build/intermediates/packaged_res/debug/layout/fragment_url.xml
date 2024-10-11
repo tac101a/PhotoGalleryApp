@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thêm ảnh từ liên kết"
+        android:padding="10dp"
+        android:textSize="30dp"
+        android:textColor="@color/white"/>
+
+    <EditText
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtURL"
+        android:layout_margin="10dp"
+        android:hint="https://i.pinimg.com/9854.jpg"
+        android:textColorHint="#66FFFFFF"/>
+    <TextView
+        android:textColor="@color/blue"
+        android:id="@+id/tv_find"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tìm kiếm"
+        android:padding="10dp"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:id="@+id/urlImage"
+        android:visibility="visible"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/image_default"
+        android:scaleType="fitCenter" />
+
+</LinearLayout>
